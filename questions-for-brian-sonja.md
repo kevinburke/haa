@@ -1,8 +1,8 @@
+- How did you hear about the HAA / realize it could be used to sue cities?
+
 - How did you decide to start CARLA?
 
-- Who "re-discovered" the HAA or realized it could be used to sue cities?
-
-- If the Planning Commission certified the EIR why was it appealed?
+- If the LafayettePlanning Commission certified the EIR why was it appealed?
 
 - would it have been better for the case if the city had actually voted to
 disapprove the Land Use permit?
@@ -36,16 +36,29 @@ the remedy? Could you have used this as the basis for the Lafayette lawsuit?
 
 - Where or how did you learn about the HAA?
 
-- I'm a little confused reading the Lafayette suit details. The Planning Commission certified the EIR, but it was appealed? Why was it appealed - did the EIR say "you can only put 50 units" here or something?
+- I'm a little confused reading the Lafayette suit details. The Planning
+Commission certified the EIR, but it was appealed? Why was it appealed - did the
+EIR say "you can only put 50 units" here or something?
 
-- If the HAA ties cities hands, why don't more cities contrive to deny EIR's, or use spurious "gentrification" arguments like SF did in approving an EIR appeal recently? If you're a developer is there even an avenue for you to appeal an EIR past the city level?
+- If the HAA ties cities hands, why don't more cities contrive to deny EIR's, or
+use spurious "gentrification" arguments like SF did in approving an EIR appeal
+recently? If you're a developer is there even an avenue for you to appeal an EIR
+past the city level?
 
-- Do you think the Lafayette lawsuit would have had a better chance if the developer forced the city to deny a Land Use permit for the original 300 units?
+- Do you think the Lafayette lawsuit would have had a better chance if the
+developer forced the city to deny a Land Use permit for the original 300 units?
 
-- The HAA specifies that cities must approve or deny applications within 90 days (if the project has a BMR component or state/federal funds), 120 days (if it's mostly housing), 180 days (for part housing, part commercial). Most cities exceed these deadlines. Have you considered suing cities for exceeding these deadlines? "Housing delayed is housing denied," is the refrain I've heard.
+- The HAA specifies that cities must approve or deny applications within 90
+days (if the project has a BMR component or state/federal funds), 120 days (if
+it's mostly housing), 180 days (for part housing, part commercial). Most cities
+exceed these deadlines. Have you considered suing cities for exceeding these
+deadlines? "Housing delayed is housing denied," is the refrain I've heard.
 
-- How many housing rejections - HAA-compliant or no - would you estimate there are per year, statewide? (Guessing there is no easy way to tally this)
+- How many housing rejections - HAA-compliant or no - would you estimate there
+are per year, statewide? (Guessing there is no easy way to tally this)
 
-- Of those, how many or what percent are HAA-eligible? For example, it's my understanding that this project is not eligible for HAA relief if it gets rejected, since it requires a variance. https://t.co/oaY3gAn08n
+- Of those, how many or what percent are HAA-eligible? For example, it's my
+understanding that this project is not eligible for HAA relief if it gets
+rejected, since it requires a variance. https://t.co/oaY3gAn08n
 
 Thanks for your help! I appreciate it. On my way to Berkeley Law Library today to read more about the law's original passage in 1982.
